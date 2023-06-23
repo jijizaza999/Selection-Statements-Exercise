@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{4BFDE6D0-4057-409D-BD6F-06768EDD7A34}|Default">
+  <MonoDevelop.Ide.ItemProperties.SelectionStatementExercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ryanl/repos/Selection-Statements-Exercise/SelectionStatementExercise/Program.cs" relfile="SelectionStatementExercise/Program.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SelectionStatementExercise/Program.cs">
+    <Files>
+      <File FileName="SelectionStatementExercise/Program.cs" Line="15" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
